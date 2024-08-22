@@ -1,0 +1,43 @@
+.button-text {
+  display: flex !important;
+  gap: 5px !important;
+  align-items: center !important;
+  padding: 8px 20px !important;
+}
+
+.web-nav-container {
+  border-bottom: 1px solid rgb(60, 58, 58);
+  padding-bottom: 15px;
+}
+.sub_tiles {
+  gap: 20px;
+  font-size: 15px;
+  margin-top: 12px;
+}
+@media only screen and (min-width: 769px) {
+  .svg-container {
+    visibility: hidden;
+  }
+}
+@media only screen and (min-width: 640px) {
+  .navbar-container {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: black;
+    opacity: 80%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .navbar-container .container {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 764px) and (max-width: 1024px) {
+  .button-text {
+    font-size: 10px !important;
+  }
+  .sub_tiles {
+    font-size: xx-small !important;
+  }
+}
