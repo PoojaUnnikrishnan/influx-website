@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.074e2100.css",
+    "main.js": "/static/js/main.dc3bb81c.js",
+    "static/js/453.90399ee5.chunk.js": "/static/js/453.90399ee5.chunk.js",
+    "static/media/Background.png": "/static/media/Background.1dc7eb9bf0611ba1bb5e.png",
+    "static/media/creditPerMonth.svg": "/static/media/creditPerMonth.ecc8113ac66d33a76be89de863483dc8.svg",
+    "static/media/Fontspring-DEMO-altivo-ultra.otf": "/static/media/Fontspring-DEMO-altivo-ultra.8b5faed9123e54727277.otf",
+    "static/media/Fontspring-DEMO-altivo-black.otf": "/static/media/Fontspring-DEMO-altivo-black.69f9492f11e38355db4c.otf",
+    "static/media/Fontspring-DEMO-altivo-mediumitalic.otf": "/static/media/Fontspring-DEMO-altivo-mediumitalic.bac46fdd539b64f0c518.otf",
+    "static/media/Fontspring-DEMO-altivo-bolditalic.otf": "/static/media/Fontspring-DEMO-altivo-bolditalic.c4d47f25b20a46ff82a9.otf",
+    "static/media/Fontspring-DEMO-altivo-medium.otf": "/static/media/Fontspring-DEMO-altivo-medium.df65a5efa1bd3fd321b3.otf",
+    "static/media/Fontspring-DEMO-altivo-italic.otf": "/static/media/Fontspring-DEMO-altivo-italic.444020a729ddb0957a8c.otf",
+    "static/media/Fontspring-DEMO-altivo-bold.otf": "/static/media/Fontspring-DEMO-altivo-bold.67e3f5faf9db86caea0f.otf",
+    "static/media/Fontspring-DEMO-altivo-regular.otf": "/static/media/Fontspring-DEMO-altivo-regular.70c170e695c5e7b5e4e2.otf",
+    "static/media/100Flexible.svg": "/static/media/100Flexible.f944d002684687d8044aab32901f9707.svg",
+    "static/media/Fontspring-DEMO-altivo-blackitalic.otf": "/static/media/Fontspring-DEMO-altivo-blackitalic.29b07b34c642eb08676b.otf",
+    "static/media/Fontspring-DEMO-altivo-ultraitalic.otf": "/static/media/Fontspring-DEMO-altivo-ultraitalic.38d97c0807597929aaa0.otf",
+    "static/media/Fontspring-DEMO-altivo-extralight.otf": "/static/media/Fontspring-DEMO-altivo-extralight.9440441d55dfd51363fa.otf",
+    "static/media/Fontspring-DEMO-altivo-light.otf": "/static/media/Fontspring-DEMO-altivo-light.91f6720ba4c387c9c7c5.otf",
+    "static/media/Fontspring-DEMO-altivo-thin.otf": "/static/media/Fontspring-DEMO-altivo-thin.669527628266dd6ffd5e.otf",
+    "static/media/Fontspring-DEMO-altivo-lightitalic.otf": "/static/media/Fontspring-DEMO-altivo-lightitalic.7f29a299a4ab642da5e1.otf",
+    "static/media/Fontspring-DEMO-altivo-extralightitalic.otf": "/static/media/Fontspring-DEMO-altivo-extralightitalic.f76c889677b3a194b44f.otf",
+    "static/media/Fontspring-DEMO-altivo-thinitalic.otf": "/static/media/Fontspring-DEMO-altivo-thinitalic.6c7e1c84db3bc57c71e1.otf",
+    "static/media/convenienceFee.svg": "/static/media/convenienceFee.7989bc3cb778efd1d8549e07e315a489.svg",
+    "static/media/rolloverOfUnusedCredits.svg": "/static/media/rolloverOfUnusedCredits.37cd71891847e7d3ddca0501a8a67ac7.svg",
+    "static/media/teenyicons_star-solid-1.svg": "/static/media/teenyicons_star-solid-1.806029eadc8137d062c65c80714837ad.svg",
+    "static/media/MMRPerks.svg": "/static/media/MMRPerks.709388f2af7516e331df1cf0808f0b4a.svg",
+    "static/media/discountOnFoodAndBeverages.svg": "/static/media/discountOnFoodAndBeverages.c2ba46ccdc818df74b22c9c4346728b2.svg",
+    "static/media/Home.svg": "/static/media/Home.f95b0c52910fc4680bee716bf3904004.svg",
+    "index.html": "/index.html",
+    "main.074e2100.css.map": "/static/css/main.074e2100.css.map",
+    "main.dc3bb81c.js.map": "/static/js/main.dc3bb81c.js.map",
+    "453.90399ee5.chunk.js.map": "/static/js/453.90399ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.074e2100.css",
+    "static/js/main.dc3bb81c.js"
+  ]
+}
