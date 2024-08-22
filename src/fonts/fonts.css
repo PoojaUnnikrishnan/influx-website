@@ -1,0 +1,67 @@
+/* Imported all fonts to use in the application */
+@font-face {
+  font-family: "YourCustomFont";
+  src: url("./Fontspring-DEMO-altivo-regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "YourCustomFont-black";
+  src: url("./Fontspring-DEMO-altivo-black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "YourCustomFont-black-italic";
+  src: url("./Fontspring-DEMO-altivo-blackitalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-bold";
+  src: url("./Fontspring-DEMO-altivo-bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-bold-italic";
+  src: url("./Fontspring-DEMO-altivo-bolditalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-extalight";
+  src: url("./Fontspring-DEMO-altivo-extralight.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-extalight-italic";
+  src: url("./Fontspring-DEMO-altivo-extralightitalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-italic";
+  src: url("./Fontspring-DEMO-altivo-italic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-light";
+  src: url("./Fontspring-DEMO-altivo-light.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-light-italic";
+  src: url("./Fontspring-DEMO-altivo-lightitalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-medium";
+  src: url("./Fontspring-DEMO-altivo-medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-medium-italic";
+  src: url("./Fontspring-DEMO-altivo-mediumitalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-thin";
+  src: url("./Fontspring-DEMO-altivo-thin.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-thin-italic";
+  src: url("./Fontspring-DEMO-altivo-thinitalic.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-ultra";
+  src: url("./Fontspring-DEMO-altivo-ultra.otf") format("opentype");
+}
+@font-face {
+  font-family: "YourCustomFont-ultra-italic";
+  src: url("./Fontspring-DEMO-altivo-ultraitalic.otf") format("opentype");
+}
